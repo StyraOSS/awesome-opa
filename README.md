@@ -246,6 +246,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Inspektor](https://github.com/poonai/inspektor) - Access Control as Code for databases using OPA to make its access decision
 - [Alluxio](https://www.alluxio.io/) - Alluxio is a data orchestration tool which allows [delegating access control decisions to OPA](https://docs.alluxio.io/ee/user/2.10.0/en/security/OpenPolicyAgent-Integration.html)
 - [Trino OPA Authorizer](https://github.com/stackabletech/trino-opa-authorizer/) - Plugin for Trino that allows using OPA for authorization
+- [OPA SpiceDB](https://github.com/umbrellaassociates/opa-spicedb) - OPA integration with Authzed SpiceDB that allows to use ReBAC in policies for authorization
 
 ### Datasource Integrations Blogs and Articles
 
