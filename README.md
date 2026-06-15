@@ -82,6 +82,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Confectionary](https://github.com/Cigna/confectionery) - A library of rules for Conftest used to detect Terraform misconfigurations.
 - [Kubescape Rego library](https://github.com/kubescape/regolibrary) - Comprehensive set of Kubernetes policies from Kubescape
 - [Kubernetes Security Policies](https://github.com/raspbernetes/k8s-security-policies) - Raspernetes library for fortifying cluster configurations
+- [agt-policies-nigeria](https://github.com/kingztech2019/agt-policies-nigeria) - Policy-as-Code for African AI agent compliance: NDPA 2023, CBN transaction limits, BVN/NIN data protection, NFIU AML/CFT, and POPIA. Includes 88 OPA tests, CI pipeline, and full compliance mapping.
+
 
 ## Language and Platform Integrations
 
