@@ -343,6 +343,8 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [mcov](https://github.com/styrainc/mcov) - A tool that'll check your Rego source files and report the minimum compatible OPA version required
 - [dependency-management-data (DMD)](https://dmd.tanna.dev) is a set of tooling to get a better understanding of the use of dependencies across your organisation. DMD supports using Open Policy Agent to write more complex rules around dependency usage than can be done using the SQL interface.
 - [RegoLab](https://github.com/HZMonama/regolab) - RegoLab is a web-based playground for writing and testing Open Policy Agent Rego policies with real-time evaluation and data simulation.
+- [nopa](https://gitlab.com/sencillodev/nopa) - Nopa is a simple way to store OPA bundles in NATS object storage with real time updates and custom module injection.
+- [Regoround](https://gitlab.com/sencillodev/regoround) - A Rego playground that you can run locally. It allows you to load a custom bundle into the playground. URLs are safe to share, the URL parameters are built from the code itself and so cannot be guessed. A live version with the example bundle in the repo is at https://regoround.fly.dev
 
 ## Other Usecases
 
