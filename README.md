@@ -96,6 +96,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Spring Security Reactive](https://github.com/massenz/jwt-opa) - OPA with Spring Security Reactive
 - [Gradle](https://github.com/Bisnode/opa-gradle-plugin) - OPA plugin for Gradle
 - [Thunx](https://github.com/xenit-eu/thunx) - Thunx is a pluggable ABAC system using OPA, Spring Cloud Gateway and Spring Data REST
+- [Spring Boot Starter for OPA ABAC](https://github.com/Void3110/spring-boot-starter-opa-abac) - Spring-native ABAC authorization backed by OPA: `@OpaPreAuthorize` method security, hierarchical resource authorization, and partial-evaluation → JPA `Specification` data filtering
 
 ### Python
 
