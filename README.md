@@ -355,6 +355,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [ScubaGear](https://github.com/cisagov/ScubaGear/) - Using Rego policies to assess the security posture of M365 tenants, by CISA
 - [Reposaur](https://github.com/reposaur/reposaur) - Audit, verify and report on development platforms (GitHub and others) easily with pre-defined and/or custom policies.
 - [backstage-opa-plugins](https://github.com/Parsifal-M/backstage-opa-plugins) - Plugins for integrating OPA with [Backstage](https://backstage.io/), including OPA-based authorisation.
+- [decision-os-min](https://github.com/Aliipou/decision-os-min) - Python execution-governance runtime that can call official OPA HTTP as a replaceable authority PDP; the kernel still signs an action-bound decision and spends a one-time token at a PEP.
 
 ## Fun and Quirky
 
