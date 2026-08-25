@@ -83,7 +83,7 @@ A curated list of [awesome](https://github.com/sindresorhus/awesome) Open Policy
 - [Kubescape Rego library](https://github.com/kubescape/regolibrary) - Comprehensive set of Kubernetes policies from Kubescape
 - [Kubernetes Security Policies](https://github.com/raspbernetes/k8s-security-policies) - Raspernetes library for fortifying cluster configurations
 - [agt-policies-nigeria](https://github.com/kingztech2019/agt-policies-nigeria) - Policy-as-Code for African AI agent compliance: NDPA 2023, CBN transaction limits, BVN/NIN data protection, NFIU AML/CFT, and POPIA. Includes 88 OPA tests, CI pipeline, and full compliance mapping.
-- [GOPAL](https://github.com/Principled-Evolution/gopal) - 85 Rego policies encoding AI-governance regulations as executable checks: EU AI Act, NIST AI RMF, ICAO/FAA/EASA aviation, FERPA/COPPA, fair lending, healthcare, automotive. Versioned under `v1/` with semver guarantees, allow/deny tests per policy, `opa check` + Regal in CI.
+- [GOPAL](https://github.com/Principled-Evolution/gopal) - Rego policies encoding AI-governance regulations as executable allow/deny checks: EU AI Act, UK pro-innovation principles and UK GDPR Arts 22A-22D, NIST AI RMF, ICAO/FAA/EASA aviation, PRA SS1/23, FCA Consumer Duty, FERPA/COPPA, fair lending. Every obligation in its published per-article coverage matrices is implemented; each framework is versioned under `v1/` with semver guarantees, and `opa check`, Regal and `opa test` run in CI.
 
 
 ## Language and Platform Integrations
